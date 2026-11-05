@@ -1,0 +1,7 @@
+experiment,outcome,steps,return
+baseline,goal,6,0.8
+step_cost_neg0.6,goal,6,-2.0
+step_cost_pos0.1,timeout,100,10.0
+trap_at_2_2,goal,6,0.8
+fast_decay_0.99,goal,6,0.8
+gamma_0.5,goal,6,0.8
