@@ -1,0 +1,21 @@
+{
+  "device": "cpu",
+  "torch_version": "2.15.0+cpu",
+  "final_validation_accuracy": {
+    "dense network": 0.9759,
+    "CNN": 0.9812
+  },
+  "best_validation_epoch": {
+    "dense network": 16,
+    "CNN": 18
+  },
+  "test_accuracy": {
+    "logistic on PCA (Lab 4)": 0.9477,
+    "dense network": 0.9583,
+    "CNN": 0.9683
+  },
+  "cnn_test_mistakes": 57,
+  "weights_file": "models\\digits_cnn.pt",
+  "weights_size_kb": 57.1,
+  "reload_matches": true
+}

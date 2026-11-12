@@ -1,0 +1,4 @@
+model,test_accuracy
+logistic on PCA (Lab 4),0.9477
+dense network,0.9582637548446655
+CNN,0.9682804942131042

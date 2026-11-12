@@ -1,0 +1,5 @@
+{
+  "python": "3.11.14",
+  "torch": "2.15.0+cpu",
+  "device": "cpu"
+}
